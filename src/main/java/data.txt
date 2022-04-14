@@ -1,0 +1,9 @@
+<xmlVersion> </Xmlversion>
+    The time is the number of milliseconds since midnight, January 1, 1970,
+Greenwich Mean Time. However, in older VMs the conversion between this long
+and a real date is platform-dependent, so it’s only useful for comparing the modi-
+fication dates of different files, not for determining the absolute time a file was
+modified. This method throws a security exception if the security manager
+doesn’t allow the file to be read. It returns 0 if the file doesn’t exist or the last
+modified date can’t be determined.
+<xmlVersionxml@#xml^^^XMl> </xmlVersion&Xml>
