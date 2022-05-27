@@ -1,6 +1,6 @@
 #Ignore .idea
-.idea
+*/.idea/
 #Ignore target
-target
+*/target/
 #Ignore .txt
-*.txt
+*/*.txt/
