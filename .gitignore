@@ -1,0 +1,6 @@
+#Ignore .idea
+.idea
+#Ignore target
+target
+#Ignore .txt
+*.txt
